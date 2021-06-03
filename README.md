@@ -14,7 +14,7 @@ Sistem için 5 tablo oluşturuldu.
 &nbsp;&nbsp;4. system_personnels : sistem çalışanlarıdır. HumanResourcesManagementSystem da çalışan personellerin özelliklerini tutar. <br>
 &nbsp;&nbsp;5. job_positions : iş pozisyonlarının tutulduğu tablodur.
 
-![tableImage](https://user-images.githubusercontent.com/77542051/118399371-8557ad80-b665-11eb-910f-34fbcb372453.png)
+![tableImage](https://user-images.githubusercontent.com/77542051/120633854-4aca7f00-c473-11eb-9d8a-9cc4f08e3a32.png)
 
 #### :clipboard: Tables Model
 
