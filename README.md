@@ -20,7 +20,7 @@ Sistem için 5 tablo oluşturuldu.
 
 :key:primaryKey ve :old_key:foreignKey atamaları yapılar tablolar arası bağlantılar sağlandı.
 
-![image](![image](https://user-images.githubusercontent.com/77542051/120633242-96305d80-c472-11eb-8568-63ae2dd6f765.png))
+![image](https://user-images.githubusercontent.com/77542051/120633636-0939d400-c473-11eb-83ec-ad693437fa30.png)
 
 #### :clipboard: Tables Code
 
